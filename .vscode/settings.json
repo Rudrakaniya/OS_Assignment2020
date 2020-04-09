@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp"
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "#1cee2e"
+    }
+}
