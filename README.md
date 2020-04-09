@@ -16,4 +16,7 @@ for additional resources in the
 current state:
 1. Request1: P0 requests 0 instances of A and 0 instances of B and 2 instances of C.
 2. Request2: P1 requests for 2 instances of A, 0 instances of B and 0 instances of C.
-All the request must be given by user as input.
+* All the request must be given by user as input.
+  
+  #### Banker’s Algorithm
+  Banker’s Algorithm is a deadlock avoidance strategy.It is called so because it is used in banking systems to decide whether a loan can be granted or not.
