@@ -24,3 +24,11 @@ current state:
   
   
 ### Solution
+To comiple the file you can use the command:
+```bash
+g++ safeStateOS.cpp
+```
+And then run the executable file by using this command:
+```bash
+./a.out
+```
