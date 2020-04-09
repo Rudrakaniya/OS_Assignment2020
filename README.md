@@ -32,3 +32,6 @@ And then run the executable file by using this command:
 ```bash
 ./a.out
 ```
+
+#### ScreenShot
+![](https://i.imgur.com/aaNZANS.png)
