@@ -23,4 +23,4 @@ current state:
   Banker’s Algorithm is a deadlock avoidance strategy.It is called so because it is used in banking systems to decide whether a loan can be granted or not.
   
   
-# Solution
+### Solution
